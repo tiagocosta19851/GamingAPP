@@ -592,7 +592,9 @@ width: 100%;
 }
 
 
-
+.card{
+    margin-bottom: 30px;
+}
 
 .question-survey{
     font-weight: bold;
